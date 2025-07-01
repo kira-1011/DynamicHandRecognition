@@ -1,0 +1,1954 @@
+video_id,label,frames,label_id,shape,format
+234,Stop Sign,37,14,"(100, 176)",JPEG
+441,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+475,Stop Sign,37,14,"(100, 176)",JPEG
+506,Doing other things,37,0,"(100, 176)",JPEG
+757,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+847,Doing other things,37,0,"(100, 176)",JPEG
+1216,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+1294,Stop Sign,37,14,"(100, 176)",JPEG
+1314,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+1337,Doing other things,37,0,"(100, 176)",JPEG
+1450,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+1621,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+1700,Stop Sign,37,14,"(100, 176)",JPEG
+1728,Doing other things,37,0,"(100, 176)",JPEG
+1921,Doing other things,37,0,"(100, 176)",JPEG
+1997,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+2016,Doing other things,37,0,"(100, 176)",JPEG
+2065,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+2081,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+2252,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+2318,Stop Sign,37,14,"(100, 176)",JPEG
+2324,Doing other things,37,0,"(100, 176)",JPEG
+2359,Sliding Two Fingers Right,37,12,"(100, 100)",JPEG
+2399,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+2465,Doing other things,37,0,"(100, 176)",JPEG
+2568,Stop Sign,37,14,"(100, 176)",JPEG
+2651,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+2765,Doing other things,37,0,"(100, 176)",JPEG
+3000,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+3005,Stop Sign,37,14,"(100, 176)",JPEG
+3254,Stop Sign,37,14,"(100, 176)",JPEG
+3326,Doing other things,37,0,"(100, 176)",JPEG
+3368,Stop Sign,37,14,"(100, 176)",JPEG
+3379,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+3402,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+3538,Doing other things,37,0,"(100, 176)",JPEG
+3584,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+3596,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+3616,Doing other things,37,0,"(100, 176)",JPEG
+3705,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+3763,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+3830,Doing other things,37,0,"(100, 176)",JPEG
+3900,Doing other things,37,0,"(100, 176)",JPEG
+3947,Doing other things,37,0,"(100, 176)",JPEG
+4046,Doing other things,37,0,"(100, 176)",JPEG
+4058,Doing other things,37,0,"(100, 176)",JPEG
+4059,Stop Sign,37,14,"(100, 176)",JPEG
+4071,Doing other things,37,0,"(100, 176)",JPEG
+4134,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+4362,Doing other things,37,0,"(100, 176)",JPEG
+4457,Stop Sign,37,14,"(100, 176)",JPEG
+4471,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+4583,Stop Sign,37,14,"(100, 176)",JPEG
+4634,Stop Sign,37,14,"(100, 176)",JPEG
+4676,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+4682,Stop Sign,37,14,"(100, 176)",JPEG
+4713,Doing other things,37,0,"(100, 176)",JPEG
+4924,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+4959,Stop Sign,37,14,"(100, 176)",JPEG
+5156,Doing other things,37,0,"(100, 176)",JPEG
+5406,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+5476,Doing other things,37,0,"(100, 132)",JPEG
+5492,Doing other things,37,0,"(100, 176)",JPEG
+5502,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+5521,Doing other things,37,0,"(100, 176)",JPEG
+5565,Doing other things,37,0,"(100, 176)",JPEG
+5660,Doing other things,37,0,"(100, 176)",JPEG
+5675,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+5857,Doing other things,37,0,"(100, 176)",JPEG
+6036,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+6120,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+6146,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+6202,Stop Sign,37,14,"(100, 176)",JPEG
+6215,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+6283,Stop Sign,37,14,"(100, 176)",JPEG
+6512,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+6551,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+6656,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+6797,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+7064,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+7247,Doing other things,37,0,"(100, 176)",JPEG
+7334,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+7533,Doing other things,37,0,"(100, 176)",JPEG
+7733,Doing other things,37,0,"(100, 176)",JPEG
+7862,Stop Sign,37,14,"(100, 132)",JPEG
+7867,Doing other things,37,0,"(100, 176)",JPEG
+7882,Stop Sign,37,14,"(100, 176)",JPEG
+8108,Stop Sign,37,14,"(100, 176)",JPEG
+8331,Doing other things,37,0,"(100, 176)",JPEG
+8358,Doing other things,37,0,"(100, 176)",JPEG
+8383,Doing other things,37,0,"(100, 176)",JPEG
+8506,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+8541,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+8589,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+8613,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+8664,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+8704,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+8810,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+8881,Doing other things,37,0,"(100, 176)",JPEG
+8888,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+8912,Doing other things,37,0,"(100, 176)",JPEG
+9010,Doing other things,37,0,"(100, 176)",JPEG
+9018,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+9057,Doing other things,37,0,"(100, 176)",JPEG
+9145,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+9181,Stop Sign,37,14,"(100, 176)",JPEG
+9233,Doing other things,37,0,"(100, 176)",JPEG
+9319,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+9385,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+9434,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+9576,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+9738,Stop Sign,37,14,"(100, 176)",JPEG
+9759,Stop Sign,37,14,"(100, 132)",JPEG
+9817,Doing other things,37,0,"(100, 176)",JPEG
+9837,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+9865,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+9880,Doing other things,37,0,"(100, 176)",JPEG
+9961,Doing other things,37,0,"(100, 132)",JPEG
+10123,Doing other things,37,0,"(100, 176)",JPEG
+10186,Stop Sign,37,14,"(100, 176)",JPEG
+10210,Doing other things,37,0,"(100, 132)",JPEG
+10238,Stop Sign,37,14,"(100, 176)",JPEG
+10254,Doing other things,37,0,"(100, 176)",JPEG
+10412,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+10533,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+10571,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+10755,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+10767,Doing other things,37,0,"(100, 176)",JPEG
+10811,Doing other things,37,0,"(100, 176)",JPEG
+11028,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+11068,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+11074,Stop Sign,37,14,"(100, 176)",JPEG
+11316,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+11339,Doing other things,37,0,"(100, 176)",JPEG
+11519,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+11531,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+11549,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+11628,Doing other things,37,0,"(100, 176)",JPEG
+11644,Doing other things,37,0,"(100, 176)",JPEG
+11789,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+11827,Stop Sign,37,14,"(100, 176)",JPEG
+11976,Stop Sign,37,14,"(100, 176)",JPEG
+11981,Doing other things,37,0,"(100, 176)",JPEG
+12411,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+12424,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+12472,Doing other things,37,0,"(100, 176)",JPEG
+12572,Stop Sign,37,14,"(100, 176)",JPEG
+12597,Stop Sign,37,14,"(100, 132)",JPEG
+12704,Stop Sign,37,14,"(100, 176)",JPEG
+12912,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+12941,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+13021,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+13101,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+13192,Doing other things,37,0,"(100, 176)",JPEG
+13333,Stop Sign,37,14,"(100, 176)",JPEG
+13376,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+13458,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+13581,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+13586,Stop Sign,37,14,"(100, 176)",JPEG
+13985,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+14039,Stop Sign,37,14,"(100, 176)",JPEG
+14054,Doing other things,37,0,"(100, 176)",JPEG
+14065,Doing other things,37,0,"(100, 176)",JPEG
+14097,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+14106,Doing other things,37,0,"(100, 176)",JPEG
+14123,Doing other things,37,0,"(100, 176)",JPEG
+14164,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+14199,Doing other things,37,0,"(100, 132)",JPEG
+14231,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+14337,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+14358,Stop Sign,37,14,"(100, 176)",JPEG
+14574,Doing other things,37,0,"(100, 176)",JPEG
+14599,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+14603,Doing other things,37,0,"(100, 176)",JPEG
+14807,Stop Sign,37,14,"(100, 176)",JPEG
+14823,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+14854,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+14864,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+14945,Doing other things,37,0,"(100, 176)",JPEG
+15044,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+15197,Doing other things,37,0,"(100, 132)",JPEG
+15301,Doing other things,37,0,"(100, 176)",JPEG
+15369,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+15421,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+15423,Stop Sign,37,14,"(100, 176)",JPEG
+15475,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+15532,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+15573,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+15618,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+15707,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+15812,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+15853,Stop Sign,37,14,"(100, 176)",JPEG
+16029,Stop Sign,37,14,"(100, 132)",JPEG
+16059,Doing other things,37,0,"(100, 176)",JPEG
+16087,Doing other things,37,0,"(100, 176)",JPEG
+16144,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+16239,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+16292,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+16310,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+16616,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+16651,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+16686,Doing other things,37,0,"(100, 176)",JPEG
+16801,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+16836,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+16890,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+17192,Doing other things,37,0,"(100, 176)",JPEG
+17225,Doing other things,37,0,"(100, 132)",JPEG
+17231,Doing other things,37,0,"(100, 176)",JPEG
+17327,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+17538,Doing other things,37,0,"(100, 176)",JPEG
+17635,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+17717,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+17782,Doing other things,37,0,"(100, 176)",JPEG
+17803,Doing other things,37,0,"(100, 132)",JPEG
+17845,Doing other things,37,0,"(100, 176)",JPEG
+17951,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+17973,Doing other things,37,0,"(100, 176)",JPEG
+17975,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+17991,Doing other things,37,0,"(100, 176)",JPEG
+18025,Stop Sign,37,14,"(100, 176)",JPEG
+18037,Doing other things,37,0,"(100, 132)",JPEG
+18057,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+18092,Doing other things,37,0,"(100, 176)",JPEG
+18100,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+18103,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+18105,Doing other things,37,0,"(100, 176)",JPEG
+18158,Doing other things,37,0,"(100, 176)",JPEG
+18160,Doing other things,37,0,"(100, 176)",JPEG
+18189,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+18191,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+18232,Doing other things,37,0,"(100, 176)",JPEG
+18310,Doing other things,37,0,"(100, 176)",JPEG
+18321,Doing other things,37,0,"(100, 132)",JPEG
+18343,Doing other things,37,0,"(100, 132)",JPEG
+18347,Doing other things,37,0,"(100, 176)",JPEG
+18368,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+18387,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+18456,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+18511,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+18521,Doing other things,37,0,"(100, 176)",JPEG
+18654,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+18759,Stop Sign,37,14,"(100, 132)",JPEG
+18854,Stop Sign,37,14,"(100, 176)",JPEG
+18935,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+18961,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+19164,Doing other things,37,0,"(100, 176)",JPEG
+19262,Doing other things,37,0,"(100, 176)",JPEG
+19370,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+19447,Doing other things,37,0,"(100, 132)",JPEG
+19598,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+19819,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+19956,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+19996,Doing other things,37,0,"(100, 176)",JPEG
+20041,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+20070,Stop Sign,37,14,"(100, 176)",JPEG
+20246,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+20271,Doing other things,37,0,"(100, 132)",JPEG
+20404,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+20605,Stop Sign,37,14,"(100, 176)",JPEG
+20895,Stop Sign,37,14,"(100, 176)",JPEG
+20924,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+21001,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+21104,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+21150,Doing other things,37,0,"(100, 176)",JPEG
+21255,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+21338,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+21343,Stop Sign,37,14,"(100, 176)",JPEG
+21438,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+21473,Stop Sign,37,14,"(100, 176)",JPEG
+21573,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+21600,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+21711,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+21797,Doing other things,37,0,"(100, 176)",JPEG
+21804,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+21912,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+22041,Doing other things,37,0,"(100, 132)",JPEG
+22117,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+22175,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+22356,Stop Sign,37,14,"(100, 176)",JPEG
+22697,Doing other things,37,0,"(100, 176)",JPEG
+22711,Doing other things,37,0,"(100, 176)",JPEG
+22716,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+22887,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+22957,Doing other things,37,0,"(100, 176)",JPEG
+23029,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+23090,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+23262,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+23347,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+23401,Doing other things,37,0,"(100, 176)",JPEG
+23504,Doing other things,37,0,"(100, 176)",JPEG
+23535,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+23628,Doing other things,37,0,"(100, 176)",JPEG
+23681,Stop Sign,37,14,"(100, 176)",JPEG
+23725,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+23766,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+23820,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+23864,Doing other things,37,0,"(100, 176)",JPEG
+23916,Doing other things,37,0,"(100, 176)",JPEG
+24009,Doing other things,37,0,"(100, 176)",JPEG
+24011,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+24023,Stop Sign,37,14,"(100, 176)",JPEG
+24035,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+24120,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+24160,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+24230,Doing other things,37,0,"(100, 176)",JPEG
+24265,Doing other things,37,0,"(100, 176)",JPEG
+24506,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+24633,Stop Sign,37,14,"(100, 176)",JPEG
+25105,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+25110,Doing other things,37,0,"(100, 176)",JPEG
+25154,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+25172,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+25262,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+25302,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+25313,Doing other things,37,0,"(100, 176)",JPEG
+25318,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+25322,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+25472,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+25477,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+25791,Doing other things,37,0,"(100, 132)",JPEG
+25868,Doing other things,37,0,"(100, 176)",JPEG
+26235,Doing other things,37,0,"(100, 176)",JPEG
+26279,Doing other things,37,0,"(100, 176)",JPEG
+26401,Doing other things,37,0,"(100, 176)",JPEG
+26418,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+26503,Stop Sign,37,14,"(100, 176)",JPEG
+26635,Doing other things,37,0,"(100, 176)",JPEG
+26637,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+26657,Stop Sign,37,14,"(100, 176)",JPEG
+26753,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+26852,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+26883,Doing other things,37,0,"(100, 176)",JPEG
+26897,Stop Sign,37,14,"(100, 176)",JPEG
+26924,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+27166,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+27308,Stop Sign,37,14,"(100, 176)",JPEG
+27320,Doing other things,37,0,"(100, 176)",JPEG
+27731,Doing other things,37,0,"(100, 176)",JPEG
+27816,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+27819,Doing other things,37,0,"(100, 176)",JPEG
+27865,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+27883,Doing other things,37,0,"(100, 132)",JPEG
+28059,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+28214,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+28444,Doing other things,37,0,"(100, 176)",JPEG
+28588,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+28643,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+28683,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+28707,Doing other things,37,0,"(100, 176)",JPEG
+28831,Doing other things,37,0,"(100, 142)",JPEG
+28854,Doing other things,37,0,"(100, 176)",JPEG
+28885,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+29001,Doing other things,37,0,"(100, 176)",JPEG
+29270,Doing other things,37,0,"(100, 176)",JPEG
+29323,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+29446,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+29596,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+29779,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+29834,Stop Sign,37,14,"(100, 176)",JPEG
+29922,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+29974,Stop Sign,37,14,"(100, 176)",JPEG
+30143,Doing other things,37,0,"(100, 176)",JPEG
+30224,Doing other things,37,0,"(100, 176)",JPEG
+30381,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+30507,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+30532,Doing other things,37,0,"(100, 132)",JPEG
+30660,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+30672,Doing other things,37,0,"(100, 176)",JPEG
+30718,Doing other things,37,0,"(100, 176)",JPEG
+30733,Stop Sign,37,14,"(100, 176)",JPEG
+30759,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+30825,Doing other things,37,0,"(100, 176)",JPEG
+30827,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+30833,Doing other things,37,0,"(100, 176)",JPEG
+30846,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+30855,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+30866,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+30870,Doing other things,37,0,"(100, 176)",JPEG
+31029,Doing other things,37,0,"(100, 132)",JPEG
+31072,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+31096,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+31167,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+31175,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+31199,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+31208,Doing other things,37,0,"(100, 176)",JPEG
+31225,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+31242,Doing other things,37,0,"(100, 176)",JPEG
+31313,Doing other things,37,0,"(100, 176)",JPEG
+31349,Doing other things,37,0,"(100, 176)",JPEG
+31400,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+31452,Doing other things,37,0,"(100, 176)",JPEG
+31494,Doing other things,37,0,"(100, 176)",JPEG
+31517,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+31519,Doing other things,37,0,"(100, 176)",JPEG
+31658,Stop Sign,37,14,"(100, 176)",JPEG
+31661,Doing other things,37,0,"(100, 176)",JPEG
+31672,Stop Sign,37,14,"(100, 176)",JPEG
+31755,Doing other things,37,0,"(100, 176)",JPEG
+31826,Doing other things,37,0,"(100, 176)",JPEG
+31895,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+31911,Doing other things,37,0,"(100, 132)",JPEG
+32017,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+32087,Stop Sign,37,14,"(100, 176)",JPEG
+32179,Stop Sign,37,14,"(100, 132)",JPEG
+32457,Stop Sign,37,14,"(100, 176)",JPEG
+32478,Doing other things,37,0,"(100, 132)",JPEG
+32517,Stop Sign,37,14,"(100, 176)",JPEG
+32617,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+32643,Stop Sign,37,14,"(100, 176)",JPEG
+32655,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+32667,Doing other things,37,0,"(100, 176)",JPEG
+32690,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+32821,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+32841,Doing other things,37,0,"(100, 132)",JPEG
+32987,Stop Sign,37,14,"(100, 176)",JPEG
+33020,Stop Sign,37,14,"(100, 176)",JPEG
+33083,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+33108,Doing other things,37,0,"(100, 176)",JPEG
+33368,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+33453,Doing other things,37,0,"(100, 176)",JPEG
+33479,Doing other things,37,0,"(100, 176)",JPEG
+33541,Doing other things,37,0,"(100, 176)",JPEG
+33545,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+33655,Stop Sign,37,14,"(100, 176)",JPEG
+33671,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+33706,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+33960,Doing other things,37,0,"(100, 176)",JPEG
+33986,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+34076,Doing other things,37,0,"(100, 176)",JPEG
+34193,Doing other things,37,0,"(100, 176)",JPEG
+34275,Stop Sign,37,14,"(100, 176)",JPEG
+34282,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+34323,Doing other things,37,0,"(100, 176)",JPEG
+34369,Doing other things,37,0,"(100, 176)",JPEG
+34435,Stop Sign,37,14,"(100, 176)",JPEG
+34664,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+34689,Stop Sign,37,14,"(100, 176)",JPEG
+34712,Stop Sign,37,14,"(100, 176)",JPEG
+34723,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+34938,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+35035,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+35072,Doing other things,37,0,"(100, 176)",JPEG
+35194,Stop Sign,37,14,"(100, 176)",JPEG
+35230,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+35274,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+35275,Doing other things,37,0,"(100, 176)",JPEG
+35626,Doing other things,37,0,"(100, 176)",JPEG
+35628,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+35835,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+35854,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+36011,Doing other things,37,0,"(100, 176)",JPEG
+36183,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+36327,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+36364,Doing other things,37,0,"(100, 176)",JPEG
+36477,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+36518,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+36616,Doing other things,37,0,"(100, 176)",JPEG
+36746,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+36775,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+36817,Doing other things,37,0,"(100, 176)",JPEG
+36975,Doing other things,37,0,"(100, 176)",JPEG
+37019,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+37031,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+37080,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+37129,Doing other things,37,0,"(100, 176)",JPEG
+37228,Doing other things,37,0,"(100, 176)",JPEG
+37264,Doing other things,37,0,"(100, 176)",JPEG
+37354,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+37384,Stop Sign,37,14,"(100, 176)",JPEG
+37389,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+37477,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+37543,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+37625,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+37711,Doing other things,37,0,"(100, 176)",JPEG
+37795,Doing other things,37,0,"(100, 176)",JPEG
+37801,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+37880,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+38005,Doing other things,37,0,"(100, 176)",JPEG
+38097,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+38131,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+38278,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+38533,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+38534,Doing other things,37,0,"(100, 176)",JPEG
+38576,Stop Sign,37,14,"(100, 176)",JPEG
+38605,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+38670,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+38687,Stop Sign,37,14,"(100, 176)",JPEG
+38708,Doing other things,37,0,"(100, 176)",JPEG
+38850,Doing other things,37,0,"(100, 176)",JPEG
+38882,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+38895,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+38919,Doing other things,37,0,"(100, 176)",JPEG
+39017,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+39054,Doing other things,37,0,"(100, 176)",JPEG
+39125,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+39195,Doing other things,37,0,"(100, 176)",JPEG
+39234,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+39263,Doing other things,37,0,"(100, 176)",JPEG
+39286,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+39432,Stop Sign,37,14,"(100, 176)",JPEG
+39461,Doing other things,37,0,"(100, 176)",JPEG
+39534,Doing other things,37,0,"(100, 176)",JPEG
+39578,Stop Sign,37,14,"(100, 176)",JPEG
+39599,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+39744,Doing other things,37,0,"(100, 176)",JPEG
+39790,Doing other things,37,0,"(100, 176)",JPEG
+39844,Doing other things,37,0,"(100, 176)",JPEG
+39872,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+39904,Doing other things,37,0,"(100, 176)",JPEG
+40011,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+40021,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+40117,Doing other things,37,0,"(100, 176)",JPEG
+40243,Doing other things,37,0,"(100, 176)",JPEG
+40336,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+40378,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+40497,Doing other things,37,0,"(100, 176)",JPEG
+40538,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+40540,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+40651,Doing other things,37,0,"(100, 176)",JPEG
+40743,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+40913,Doing other things,37,0,"(100, 176)",JPEG
+40971,Doing other things,37,0,"(100, 176)",JPEG
+41016,Stop Sign,37,14,"(100, 176)",JPEG
+41049,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+41112,Doing other things,37,0,"(100, 176)",JPEG
+41116,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+41177,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+41197,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+41576,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+41579,Doing other things,37,0,"(100, 176)",JPEG
+41687,Doing other things,37,0,"(100, 176)",JPEG
+41800,Doing other things,37,0,"(100, 132)",JPEG
+41950,Doing other things,37,0,"(100, 176)",JPEG
+42023,Doing other things,37,0,"(100, 176)",JPEG
+42110,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+42114,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+42136,Stop Sign,37,14,"(100, 132)",JPEG
+42146,Doing other things,37,0,"(100, 176)",JPEG
+42188,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+42294,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+42412,Doing other things,37,0,"(100, 176)",JPEG
+42482,Doing other things,37,0,"(100, 176)",JPEG
+42628,Stop Sign,37,14,"(100, 176)",JPEG
+42701,Doing other things,37,0,"(100, 176)",JPEG
+42720,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+42789,Doing other things,37,0,"(100, 176)",JPEG
+42896,Doing other things,37,0,"(100, 176)",JPEG
+42901,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+42934,Doing other things,37,0,"(100, 176)",JPEG
+42954,Doing other things,37,0,"(100, 132)",JPEG
+43085,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+43137,Doing other things,37,0,"(100, 176)",JPEG
+43142,Doing other things,37,0,"(100, 176)",JPEG
+43175,Doing other things,37,0,"(100, 176)",JPEG
+43183,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+43233,Doing other things,37,0,"(100, 176)",JPEG
+43378,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+43387,Doing other things,37,0,"(100, 176)",JPEG
+43445,Doing other things,37,0,"(100, 176)",JPEG
+43525,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+43567,Doing other things,37,0,"(100, 176)",JPEG
+43890,Stop Sign,37,14,"(100, 176)",JPEG
+43947,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+44050,Doing other things,37,0,"(100, 176)",JPEG
+44087,Doing other things,37,0,"(100, 176)",JPEG
+44131,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+44325,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+44328,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+44335,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+44353,Doing other things,37,0,"(100, 176)",JPEG
+44392,Doing other things,37,0,"(100, 176)",JPEG
+44510,Doing other things,37,0,"(100, 176)",JPEG
+44580,Stop Sign,37,14,"(100, 176)",JPEG
+44684,Doing other things,37,0,"(100, 176)",JPEG
+44791,Doing other things,37,0,"(100, 176)",JPEG
+44844,Doing other things,37,0,"(100, 132)",JPEG
+44888,Stop Sign,37,14,"(100, 176)",JPEG
+44948,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+44961,Doing other things,37,0,"(100, 176)",JPEG
+44979,Stop Sign,37,14,"(100, 176)",JPEG
+45119,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+45320,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+45792,Doing other things,37,0,"(100, 176)",JPEG
+45834,Doing other things,37,0,"(100, 176)",JPEG
+45953,Doing other things,37,0,"(100, 176)",JPEG
+45987,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+46079,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+46116,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+46162,Stop Sign,37,14,"(100, 132)",JPEG
+46253,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+46276,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+46421,Doing other things,37,0,"(100, 176)",JPEG
+46574,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+46586,Doing other things,37,0,"(100, 176)",JPEG
+46601,Stop Sign,37,14,"(100, 176)",JPEG
+46650,Stop Sign,37,14,"(100, 176)",JPEG
+46718,Stop Sign,37,14,"(100, 176)",JPEG
+46911,Doing other things,37,0,"(100, 132)",JPEG
+47077,Doing other things,37,0,"(100, 176)",JPEG
+47241,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+47437,Doing other things,37,0,"(100, 176)",JPEG
+47442,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+47472,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+47570,Doing other things,37,0,"(100, 176)",JPEG
+47607,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+47643,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+47702,Doing other things,37,0,"(100, 176)",JPEG
+47763,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+47788,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+47878,Doing other things,37,0,"(100, 176)",JPEG
+47892,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+48081,Doing other things,37,0,"(100, 176)",JPEG
+48088,Doing other things,37,0,"(100, 176)",JPEG
+48459,Stop Sign,37,14,"(100, 176)",JPEG
+48504,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+48569,Doing other things,37,0,"(100, 176)",JPEG
+48572,Doing other things,37,0,"(100, 176)",JPEG
+48685,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+48690,Doing other things,37,0,"(100, 176)",JPEG
+48745,Doing other things,37,0,"(100, 176)",JPEG
+48755,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+48807,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+48929,Doing other things,37,0,"(100, 176)",JPEG
+48951,Doing other things,37,0,"(100, 176)",JPEG
+49129,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+49156,Doing other things,37,0,"(100, 176)",JPEG
+49233,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+49287,Stop Sign,37,14,"(100, 176)",JPEG
+49358,Doing other things,37,0,"(100, 132)",JPEG
+49595,Doing other things,37,0,"(100, 176)",JPEG
+49625,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+49647,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+49945,Stop Sign,37,14,"(100, 176)",JPEG
+50005,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+50011,Doing other things,37,0,"(100, 176)",JPEG
+50164,Doing other things,37,0,"(100, 176)",JPEG
+50325,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+50408,Doing other things,37,0,"(100, 176)",JPEG
+50409,Stop Sign,37,14,"(100, 176)",JPEG
+50485,Doing other things,37,0,"(100, 176)",JPEG
+50608,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+50647,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+50819,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+50884,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+50977,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+51006,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+51112,Doing other things,37,0,"(100, 176)",JPEG
+51149,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+51349,Stop Sign,37,14,"(100, 176)",JPEG
+51391,Doing other things,37,0,"(100, 176)",JPEG
+51424,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+51532,Stop Sign,37,14,"(100, 176)",JPEG
+51586,Doing other things,37,0,"(100, 176)",JPEG
+51615,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+51661,Doing other things,37,0,"(100, 176)",JPEG
+51864,Stop Sign,37,14,"(100, 176)",JPEG
+51921,Doing other things,37,0,"(100, 176)",JPEG
+52108,Stop Sign,37,14,"(100, 176)",JPEG
+52279,Doing other things,37,0,"(100, 100)",JPEG
+52489,Doing other things,37,0,"(100, 176)",JPEG
+52567,Stop Sign,37,14,"(100, 176)",JPEG
+52602,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+52851,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+52878,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+52927,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+52936,Stop Sign,37,14,"(100, 176)",JPEG
+52939,Stop Sign,37,14,"(100, 176)",JPEG
+52957,Doing other things,37,0,"(100, 176)",JPEG
+52992,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+53180,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+53223,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+53439,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+53443,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+53509,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+53536,Doing other things,37,0,"(100, 176)",JPEG
+53590,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+53647,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+53667,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+53689,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+53821,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+53957,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+53968,Doing other things,37,0,"(100, 176)",JPEG
+54061,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+54101,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+54132,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+54156,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+54302,Doing other things,37,0,"(100, 176)",JPEG
+54324,Doing other things,37,0,"(100, 176)",JPEG
+54336,Doing other things,37,0,"(100, 176)",JPEG
+54379,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+54657,Doing other things,37,0,"(100, 176)",JPEG
+54823,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+55166,Doing other things,37,0,"(100, 176)",JPEG
+55217,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+55229,Doing other things,37,0,"(100, 176)",JPEG
+55230,Doing other things,37,0,"(100, 176)",JPEG
+55386,Doing other things,37,0,"(100, 176)",JPEG
+55447,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+55525,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+55533,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+55573,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+55616,Doing other things,37,0,"(100, 176)",JPEG
+55696,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+55706,Stop Sign,37,14,"(100, 176)",JPEG
+55717,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+55737,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+55748,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+55787,Doing other things,37,0,"(100, 176)",JPEG
+55843,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+55962,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56009,Doing other things,37,0,"(100, 132)",JPEG
+56046,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56090,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56122,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+56134,Doing other things,37,0,"(100, 176)",JPEG
+56180,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56183,Doing other things,37,0,"(100, 176)",JPEG
+56334,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56359,Stop Sign,37,14,"(100, 176)",JPEG
+56407,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+56411,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+56456,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56482,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+56559,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+56684,Doing other things,37,0,"(100, 176)",JPEG
+56691,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56793,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+56941,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+56981,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+56998,Stop Sign,37,14,"(100, 176)",JPEG
+57251,Stop Sign,37,14,"(100, 176)",JPEG
+57257,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+57278,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+57348,Stop Sign,37,14,"(100, 176)",JPEG
+57361,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+57415,Doing other things,37,0,"(100, 176)",JPEG
+57440,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+57536,Doing other things,37,0,"(100, 176)",JPEG
+57539,Stop Sign,37,14,"(100, 132)",JPEG
+57550,Stop Sign,37,14,"(100, 132)",JPEG
+57556,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+57652,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+57898,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+57922,Stop Sign,37,14,"(100, 176)",JPEG
+57973,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+57985,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+58003,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+58101,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+58113,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+58129,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+58182,Doing other things,37,0,"(100, 176)",JPEG
+58223,Doing other things,37,0,"(100, 176)",JPEG
+58273,Doing other things,37,0,"(100, 176)",JPEG
+58300,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+58343,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+58436,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+58534,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+58637,Doing other things,37,0,"(100, 176)",JPEG
+58811,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+58931,Stop Sign,37,14,"(100, 176)",JPEG
+58951,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+59059,Sliding Two Fingers Up,37,13,"(100, 142)",JPEG
+59073,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+59166,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+59189,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+59218,Doing other things,37,0,"(100, 176)",JPEG
+59339,Doing other things,37,0,"(100, 176)",JPEG
+59351,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+59353,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+59398,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+59420,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+59571,Doing other things,37,0,"(100, 176)",JPEG
+59581,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+59617,Doing other things,37,0,"(100, 176)",JPEG
+59654,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+59658,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+59672,Stop Sign,37,14,"(100, 176)",JPEG
+59830,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+59977,Doing other things,37,0,"(100, 176)",JPEG
+59985,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+60035,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+60070,Stop Sign,37,14,"(100, 176)",JPEG
+60111,Doing other things,37,0,"(100, 176)",JPEG
+60179,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+60433,Doing other things,37,0,"(100, 176)",JPEG
+60449,Doing other things,37,0,"(100, 176)",JPEG
+60454,Stop Sign,37,14,"(100, 142)",JPEG
+60696,Doing other things,37,0,"(100, 176)",JPEG
+60781,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+60814,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+60949,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+60952,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+60965,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+61010,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+61332,Doing other things,37,0,"(100, 176)",JPEG
+61366,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+61400,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+61464,Doing other things,37,0,"(100, 176)",JPEG
+61514,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+61595,Stop Sign,37,14,"(100, 176)",JPEG
+61774,Doing other things,37,0,"(100, 176)",JPEG
+61950,Stop Sign,37,14,"(100, 176)",JPEG
+62057,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+62194,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+62219,Stop Sign,37,14,"(100, 176)",JPEG
+62322,Doing other things,37,0,"(100, 176)",JPEG
+62595,Doing other things,37,0,"(100, 176)",JPEG
+62911,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+63032,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+63064,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+63142,Doing other things,37,0,"(100, 176)",JPEG
+63226,Doing other things,37,0,"(100, 176)",JPEG
+63270,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+63369,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+63439,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+63449,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+63484,Doing other things,37,0,"(100, 176)",JPEG
+63504,Stop Sign,37,14,"(100, 176)",JPEG
+63669,Doing other things,37,0,"(100, 132)",JPEG
+63691,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+63767,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+63809,Doing other things,37,0,"(100, 176)",JPEG
+63814,Doing other things,37,0,"(100, 176)",JPEG
+63831,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+63865,Doing other things,37,0,"(100, 132)",JPEG
+63957,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+63966,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+64119,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+64162,Doing other things,37,0,"(100, 176)",JPEG
+64165,Doing other things,37,0,"(100, 176)",JPEG
+64284,Doing other things,37,0,"(100, 176)",JPEG
+64325,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+64521,Stop Sign,37,14,"(100, 176)",JPEG
+64538,Doing other things,37,0,"(100, 176)",JPEG
+64603,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+64749,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+64767,Doing other things,37,0,"(100, 176)",JPEG
+64818,Doing other things,37,0,"(100, 176)",JPEG
+65008,Doing other things,37,0,"(100, 176)",JPEG
+65026,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+65202,Doing other things,37,0,"(100, 176)",JPEG
+65264,Stop Sign,37,14,"(100, 176)",JPEG
+65347,Stop Sign,37,14,"(100, 176)",JPEG
+65443,Stop Sign,37,14,"(100, 176)",JPEG
+65722,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+65749,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+65753,Doing other things,37,0,"(100, 176)",JPEG
+65764,Doing other things,37,0,"(100, 176)",JPEG
+65785,Doing other things,37,0,"(100, 132)",JPEG
+65803,Doing other things,37,0,"(100, 176)",JPEG
+65901,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+65925,Stop Sign,37,14,"(100, 132)",JPEG
+65945,Doing other things,37,0,"(100, 176)",JPEG
+66051,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+66052,Doing other things,37,0,"(100, 176)",JPEG
+66166,Doing other things,37,0,"(100, 176)",JPEG
+66519,Stop Sign,37,14,"(100, 176)",JPEG
+66777,Doing other things,37,0,"(100, 176)",JPEG
+66815,Stop Sign,37,14,"(100, 176)",JPEG
+66982,Stop Sign,37,14,"(100, 176)",JPEG
+67020,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+67026,Doing other things,37,0,"(100, 176)",JPEG
+67088,Stop Sign,37,14,"(100, 132)",JPEG
+67243,Doing other things,37,0,"(100, 176)",JPEG
+67274,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+67574,Stop Sign,37,14,"(100, 176)",JPEG
+67595,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+67635,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+67655,Doing other things,37,0,"(100, 176)",JPEG
+67684,Stop Sign,37,14,"(100, 176)",JPEG
+67693,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+67994,Doing other things,37,0,"(100, 176)",JPEG
+68084,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+68199,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+68208,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+68236,Doing other things,37,0,"(100, 176)",JPEG
+68246,Doing other things,37,0,"(100, 176)",JPEG
+68299,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+68328,Stop Sign,37,14,"(100, 176)",JPEG
+68347,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+68378,Doing other things,37,0,"(100, 176)",JPEG
+68477,Doing other things,37,0,"(100, 176)",JPEG
+68888,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+68998,Doing other things,37,0,"(100, 176)",JPEG
+69056,Doing other things,37,0,"(100, 176)",JPEG
+69059,Stop Sign,37,14,"(100, 176)",JPEG
+69081,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+69109,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+69323,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+69364,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+69374,Doing other things,37,0,"(100, 176)",JPEG
+69407,Stop Sign,37,14,"(100, 176)",JPEG
+69416,Stop Sign,37,14,"(100, 142)",JPEG
+69421,Doing other things,37,0,"(100, 176)",JPEG
+69439,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+69564,Doing other things,37,0,"(100, 176)",JPEG
+69627,Doing other things,37,0,"(100, 176)",JPEG
+69647,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+69675,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+69678,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+69695,Stop Sign,37,14,"(100, 176)",JPEG
+69881,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+69896,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+70171,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+70266,Doing other things,37,0,"(100, 176)",JPEG
+70352,Stop Sign,37,14,"(100, 132)",JPEG
+70360,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+70534,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+70559,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+70629,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+70643,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+70655,Doing other things,37,0,"(100, 176)",JPEG
+70672,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+70783,Doing other things,37,0,"(100, 176)",JPEG
+70956,Stop Sign,37,14,"(100, 176)",JPEG
+71145,Doing other things,37,0,"(100, 176)",JPEG
+71164,Stop Sign,37,14,"(100, 176)",JPEG
+71343,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+71355,Stop Sign,37,14,"(100, 176)",JPEG
+71489,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+71497,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+71578,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+71587,Doing other things,37,0,"(100, 176)",JPEG
+71631,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+71669,Doing other things,37,0,"(100, 176)",JPEG
+71676,Stop Sign,37,14,"(100, 176)",JPEG
+71785,Doing other things,37,0,"(100, 176)",JPEG
+71855,Doing other things,37,0,"(100, 132)",JPEG
+71978,Doing other things,37,0,"(100, 176)",JPEG
+72076,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+72258,Doing other things,37,0,"(100, 176)",JPEG
+72286,Doing other things,37,0,"(100, 176)",JPEG
+72432,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+72459,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+72537,Doing other things,37,0,"(100, 176)",JPEG
+72649,Stop Sign,37,14,"(100, 176)",JPEG
+72887,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+72909,Doing other things,37,0,"(100, 176)",JPEG
+72961,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+72974,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+73024,Doing other things,37,0,"(100, 176)",JPEG
+73029,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+73049,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+73053,Doing other things,37,0,"(100, 176)",JPEG
+73080,Stop Sign,37,14,"(100, 176)",JPEG
+73291,Doing other things,37,0,"(100, 176)",JPEG
+73333,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+73592,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+73726,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+73765,Doing other things,37,0,"(100, 176)",JPEG
+73878,Doing other things,37,0,"(100, 176)",JPEG
+73924,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+74004,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+74040,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+74043,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+74154,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+74228,Doing other things,37,0,"(100, 176)",JPEG
+74383,Sliding Two Fingers Left,37,11,"(100, 142)",JPEG
+74440,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+74444,Stop Sign,37,14,"(100, 176)",JPEG
+74469,Stop Sign,37,14,"(100, 176)",JPEG
+74587,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+74591,Stop Sign,37,14,"(100, 176)",JPEG
+74601,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+74635,Stop Sign,37,14,"(100, 176)",JPEG
+74650,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+74671,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+74914,Doing other things,37,0,"(100, 176)",JPEG
+74942,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+74978,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+74994,Stop Sign,37,14,"(100, 176)",JPEG
+75093,Doing other things,37,0,"(100, 176)",JPEG
+75099,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+75110,Doing other things,37,0,"(100, 176)",JPEG
+75123,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+75191,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+75230,Doing other things,37,0,"(100, 176)",JPEG
+75262,Stop Sign,37,14,"(100, 176)",JPEG
+75301,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+75371,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+75397,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+75577,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+75605,Doing other things,37,0,"(100, 176)",JPEG
+75831,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+75864,Doing other things,37,0,"(100, 176)",JPEG
+76052,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+76081,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+76108,Doing other things,37,0,"(100, 176)",JPEG
+76208,Doing other things,37,0,"(100, 176)",JPEG
+76271,Doing other things,37,0,"(100, 176)",JPEG
+76289,Doing other things,37,0,"(100, 176)",JPEG
+76601,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+76763,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+76783,Doing other things,37,0,"(100, 176)",JPEG
+76806,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+76833,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+76837,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+76867,Doing other things,37,0,"(100, 176)",JPEG
+77039,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+77071,Doing other things,37,0,"(100, 176)",JPEG
+77084,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+77093,Doing other things,37,0,"(100, 176)",JPEG
+77167,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+77268,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+77301,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+77305,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+77390,Doing other things,37,0,"(100, 176)",JPEG
+77497,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+77567,Doing other things,37,0,"(100, 176)",JPEG
+77621,Doing other things,37,0,"(100, 176)",JPEG
+77680,Doing other things,37,0,"(100, 176)",JPEG
+77712,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+77723,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+77866,Doing other things,37,0,"(100, 176)",JPEG
+77903,Doing other things,37,0,"(100, 176)",JPEG
+77963,Doing other things,37,0,"(100, 176)",JPEG
+78111,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+78117,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+78162,Stop Sign,37,14,"(100, 132)",JPEG
+78218,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+78254,Stop Sign,37,14,"(100, 176)",JPEG
+78298,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+78432,Doing other things,37,0,"(100, 176)",JPEG
+78475,Doing other things,37,0,"(100, 176)",JPEG
+78538,Doing other things,37,0,"(100, 176)",JPEG
+78551,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+78585,Stop Sign,37,14,"(100, 176)",JPEG
+78645,Stop Sign,37,14,"(100, 176)",JPEG
+78784,Doing other things,37,0,"(100, 176)",JPEG
+78838,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+78856,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+78912,Stop Sign,37,14,"(100, 176)",JPEG
+78970,Doing other things,37,0,"(100, 176)",JPEG
+79113,Doing other things,37,0,"(100, 176)",JPEG
+79131,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+79167,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+79237,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+79259,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+79502,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+79599,Stop Sign,37,14,"(100, 176)",JPEG
+79664,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+79670,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+79777,Doing other things,37,0,"(100, 176)",JPEG
+79834,Doing other things,37,0,"(100, 176)",JPEG
+79864,Stop Sign,37,14,"(100, 176)",JPEG
+79882,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+79886,Doing other things,37,0,"(100, 176)",JPEG
+79998,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+80042,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+80089,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+80104,Doing other things,37,0,"(100, 176)",JPEG
+80201,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+80306,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+80340,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+80468,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+80523,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+80597,Doing other things,37,0,"(100, 176)",JPEG
+80732,Doing other things,37,0,"(100, 176)",JPEG
+80851,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+80906,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+80995,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+81074,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+81093,Doing other things,37,0,"(100, 176)",JPEG
+81099,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+81194,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+81230,Doing other things,37,0,"(100, 176)",JPEG
+81233,Doing other things,37,0,"(100, 132)",JPEG
+81236,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+81251,Doing other things,37,0,"(100, 176)",JPEG
+81476,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+81512,Doing other things,37,0,"(100, 176)",JPEG
+81560,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+81641,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+81675,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+81738,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+81756,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+81832,Doing other things,37,0,"(100, 176)",JPEG
+81928,Doing other things,37,0,"(100, 176)",JPEG
+82086,Doing other things,37,0,"(100, 176)",JPEG
+82097,Doing other things,37,0,"(100, 176)",JPEG
+82102,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+82117,Doing other things,37,0,"(100, 176)",JPEG
+82120,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+82218,Doing other things,37,0,"(100, 132)",JPEG
+82321,Doing other things,37,0,"(100, 176)",JPEG
+82356,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+82621,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+82664,Stop Sign,37,14,"(100, 176)",JPEG
+82678,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+82741,Doing other things,37,0,"(100, 176)",JPEG
+82781,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+82970,Doing other things,37,0,"(100, 176)",JPEG
+83028,Doing other things,37,0,"(100, 176)",JPEG
+83172,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+83206,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+83210,Doing other things,37,0,"(100, 132)",JPEG
+83257,Doing other things,37,0,"(100, 176)",JPEG
+83271,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+83348,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+83439,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+83541,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+83564,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+83581,Doing other things,37,0,"(100, 176)",JPEG
+83654,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+83694,Doing other things,37,0,"(100, 176)",JPEG
+83783,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+83796,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+83942,Doing other things,37,0,"(100, 176)",JPEG
+84063,Doing other things,37,0,"(100, 176)",JPEG
+84219,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+84277,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+84339,Doing other things,37,0,"(100, 176)",JPEG
+84358,Doing other things,37,0,"(100, 176)",JPEG
+84367,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+84479,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+84614,Doing other things,37,0,"(100, 132)",JPEG
+84682,Doing other things,37,0,"(100, 176)",JPEG
+84823,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+84868,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+84875,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+84945,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+84970,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+85095,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+85106,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+85145,Doing other things,37,0,"(100, 176)",JPEG
+85209,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+85340,Doing other things,37,0,"(100, 176)",JPEG
+85488,Doing other things,37,0,"(100, 176)",JPEG
+85556,Doing other things,37,0,"(100, 176)",JPEG
+85650,Stop Sign,37,14,"(100, 176)",JPEG
+85687,Doing other things,37,0,"(100, 176)",JPEG
+85691,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+85696,Stop Sign,37,14,"(100, 132)",JPEG
+85775,Doing other things,37,0,"(100, 176)",JPEG
+85788,Stop Sign,37,14,"(100, 132)",JPEG
+85843,Doing other things,37,0,"(100, 176)",JPEG
+85873,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+85884,Doing other things,37,0,"(100, 176)",JPEG
+85934,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+86068,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+86114,Doing other things,37,0,"(100, 176)",JPEG
+86135,Stop Sign,37,14,"(100, 176)",JPEG
+86180,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+86397,Doing other things,37,0,"(100, 132)",JPEG
+86479,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+86534,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+86674,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+86784,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+86808,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+87018,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+87025,Doing other things,37,0,"(100, 132)",JPEG
+87087,Doing other things,37,0,"(100, 176)",JPEG
+87110,Stop Sign,37,14,"(100, 132)",JPEG
+87115,Stop Sign,37,14,"(100, 176)",JPEG
+87178,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+87326,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+87348,Doing other things,37,0,"(100, 176)",JPEG
+87429,Doing other things,37,0,"(100, 176)",JPEG
+87455,Doing other things,37,0,"(100, 176)",JPEG
+87746,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+87963,Doing other things,37,0,"(100, 176)",JPEG
+88047,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+88078,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+88096,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+88176,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+88190,Doing other things,37,0,"(100, 176)",JPEG
+88286,Doing other things,37,0,"(100, 176)",JPEG
+88299,Doing other things,37,0,"(100, 176)",JPEG
+88306,Doing other things,37,0,"(100, 176)",JPEG
+88309,Doing other things,37,0,"(100, 176)",JPEG
+88332,Stop Sign,37,14,"(100, 176)",JPEG
+88384,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+88422,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+88496,Doing other things,37,0,"(100, 176)",JPEG
+88538,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+88559,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+88728,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+88856,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+88891,Doing other things,37,0,"(100, 176)",JPEG
+88971,Doing other things,37,0,"(100, 176)",JPEG
+88998,Doing other things,37,0,"(100, 176)",JPEG
+89119,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+89167,Doing other things,37,0,"(100, 176)",JPEG
+89261,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+89272,Doing other things,37,0,"(100, 176)",JPEG
+89326,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+89455,Doing other things,37,0,"(100, 176)",JPEG
+89527,Stop Sign,37,14,"(100, 176)",JPEG
+89585,Stop Sign,37,14,"(100, 176)",JPEG
+89650,Stop Sign,37,14,"(100, 176)",JPEG
+89676,Doing other things,37,0,"(100, 176)",JPEG
+89698,Doing other things,37,0,"(100, 176)",JPEG
+89782,Doing other things,37,0,"(100, 176)",JPEG
+89783,Doing other things,37,0,"(100, 176)",JPEG
+89811,Doing other things,37,0,"(100, 176)",JPEG
+89833,Doing other things,37,0,"(100, 176)",JPEG
+89856,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+90132,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+90134,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+90237,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+90270,Doing other things,37,0,"(100, 176)",JPEG
+90307,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+90317,Stop Sign,37,14,"(100, 132)",JPEG
+90324,Doing other things,37,0,"(100, 176)",JPEG
+90360,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+90764,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+90846,Doing other things,37,0,"(100, 176)",JPEG
+90900,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+90969,Doing other things,37,0,"(100, 132)",JPEG
+90971,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+91020,Stop Sign,37,14,"(100, 176)",JPEG
+91172,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+91315,Doing other things,37,0,"(100, 176)",JPEG
+91332,Doing other things,37,0,"(100, 176)",JPEG
+91434,Doing other things,37,0,"(100, 132)",JPEG
+91535,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+91597,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+91608,Doing other things,37,0,"(100, 176)",JPEG
+91836,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+91899,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+91965,Doing other things,37,0,"(100, 176)",JPEG
+92103,Doing other things,37,0,"(100, 176)",JPEG
+92248,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+92323,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+92446,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+92465,Doing other things,37,0,"(100, 176)",JPEG
+92467,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+92521,Doing other things,37,0,"(100, 176)",JPEG
+92728,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+92796,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+92826,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+92839,Doing other things,37,0,"(100, 176)",JPEG
+92921,Stop Sign,37,14,"(100, 176)",JPEG
+92947,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+93075,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+93227,Doing other things,37,0,"(100, 176)",JPEG
+93253,Stop Sign,37,14,"(100, 176)",JPEG
+93258,Doing other things,37,0,"(100, 176)",JPEG
+93277,Doing other things,37,0,"(100, 176)",JPEG
+93395,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+93442,Stop Sign,37,14,"(100, 176)",JPEG
+93456,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+93640,Doing other things,37,0,"(100, 176)",JPEG
+93655,Doing other things,37,0,"(100, 132)",JPEG
+93721,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+93736,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+93874,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+94028,Doing other things,37,0,"(100, 176)",JPEG
+94031,Doing other things,37,0,"(100, 176)",JPEG
+94106,Doing other things,37,0,"(100, 176)",JPEG
+94187,Doing other things,37,0,"(100, 132)",JPEG
+94267,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+94475,Stop Sign,37,14,"(100, 176)",JPEG
+94518,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+94536,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+94541,Stop Sign,37,14,"(100, 176)",JPEG
+94560,Doing other things,37,0,"(100, 176)",JPEG
+94662,Doing other things,37,0,"(100, 176)",JPEG
+94672,Doing other things,37,0,"(100, 176)",JPEG
+94730,Doing other things,37,0,"(100, 176)",JPEG
+94882,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+94885,Doing other things,37,0,"(100, 176)",JPEG
+94891,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+95007,Doing other things,37,0,"(100, 176)",JPEG
+95046,Doing other things,37,0,"(100, 176)",JPEG
+95124,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+95181,Doing other things,37,0,"(100, 176)",JPEG
+95182,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+95229,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+95381,Stop Sign,37,14,"(100, 176)",JPEG
+95403,Stop Sign,37,14,"(100, 132)",JPEG
+95465,Doing other things,37,0,"(100, 176)",JPEG
+95469,Doing other things,37,0,"(100, 176)",JPEG
+95475,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+95538,Doing other things,37,0,"(100, 176)",JPEG
+95568,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+95758,Doing other things,37,0,"(100, 176)",JPEG
+96088,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+96128,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+96189,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+96203,Doing other things,37,0,"(100, 176)",JPEG
+96236,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+96256,Stop Sign,37,14,"(100, 176)",JPEG
+96476,Doing other things,37,0,"(100, 176)",JPEG
+96485,Doing other things,37,0,"(100, 176)",JPEG
+96487,Doing other things,37,0,"(100, 132)",JPEG
+96574,Doing other things,37,0,"(100, 176)",JPEG
+96585,Sliding Two Fingers Right,37,12,"(100, 142)",JPEG
+96607,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+96617,Stop Sign,37,14,"(100, 132)",JPEG
+96636,Doing other things,37,0,"(100, 132)",JPEG
+96925,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+96954,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+97038,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+97047,Doing other things,37,0,"(100, 176)",JPEG
+97055,Doing other things,37,0,"(100, 176)",JPEG
+97231,Stop Sign,37,14,"(100, 176)",JPEG
+97237,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+97301,Stop Sign,37,14,"(100, 176)",JPEG
+97308,Doing other things,37,0,"(100, 176)",JPEG
+97352,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+97406,Doing other things,37,0,"(100, 176)",JPEG
+97410,Stop Sign,37,14,"(100, 176)",JPEG
+97449,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+97575,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+97756,Doing other things,37,0,"(100, 176)",JPEG
+97792,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+97905,Stop Sign,37,14,"(100, 132)",JPEG
+97944,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+98180,Stop Sign,37,14,"(100, 176)",JPEG
+98222,Doing other things,37,0,"(100, 176)",JPEG
+98265,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+98281,Stop Sign,37,14,"(100, 176)",JPEG
+98349,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+98402,Stop Sign,37,14,"(100, 176)",JPEG
+98551,Doing other things,37,0,"(100, 176)",JPEG
+98600,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+98633,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+98687,Doing other things,37,0,"(100, 176)",JPEG
+98735,Doing other things,37,0,"(100, 176)",JPEG
+98817,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+98835,Doing other things,37,0,"(100, 176)",JPEG
+98847,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+98879,Doing other things,37,0,"(100, 176)",JPEG
+98926,Stop Sign,37,14,"(100, 176)",JPEG
+99155,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+99172,Doing other things,37,0,"(100, 176)",JPEG
+99311,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+99430,Doing other things,37,0,"(100, 176)",JPEG
+99432,Doing other things,37,0,"(100, 176)",JPEG
+99554,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+99582,Doing other things,37,0,"(100, 176)",JPEG
+99802,Doing other things,37,0,"(100, 176)",JPEG
+99963,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+99966,Stop Sign,37,14,"(100, 176)",JPEG
+99971,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+100090,Doing other things,37,0,"(100, 176)",JPEG
+100132,Doing other things,37,0,"(100, 176)",JPEG
+100460,Doing other things,37,0,"(100, 132)",JPEG
+100495,Doing other things,37,0,"(100, 176)",JPEG
+100502,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+100526,Stop Sign,37,14,"(100, 176)",JPEG
+100580,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+100691,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+100729,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+100839,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+100890,Doing other things,37,0,"(100, 176)",JPEG
+101042,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+101130,Doing other things,37,0,"(100, 176)",JPEG
+101142,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+101170,Stop Sign,37,14,"(100, 176)",JPEG
+101194,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+101204,Stop Sign,37,14,"(100, 132)",JPEG
+101346,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+101370,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+101372,Stop Sign,37,14,"(100, 176)",JPEG
+101399,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+101453,Doing other things,37,0,"(100, 176)",JPEG
+101528,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+101703,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+101837,Doing other things,37,0,"(100, 176)",JPEG
+101965,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+102182,Doing other things,37,0,"(100, 176)",JPEG
+102243,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+102354,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+102434,Doing other things,37,0,"(100, 176)",JPEG
+102508,Stop Sign,37,14,"(100, 176)",JPEG
+102731,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+102743,Stop Sign,37,14,"(100, 176)",JPEG
+102973,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+102984,Doing other things,37,0,"(100, 176)",JPEG
+102990,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+103002,Stop Sign,37,14,"(100, 176)",JPEG
+103003,Doing other things,37,0,"(100, 176)",JPEG
+103076,Doing other things,37,0,"(100, 176)",JPEG
+103147,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+103192,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+103256,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+103273,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+103704,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+103741,Doing other things,37,0,"(100, 176)",JPEG
+103762,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+103890,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+104002,Doing other things,37,0,"(100, 176)",JPEG
+104083,Stop Sign,37,14,"(100, 176)",JPEG
+104137,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+104189,Stop Sign,37,14,"(100, 176)",JPEG
+104193,Stop Sign,37,14,"(100, 176)",JPEG
+104305,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+104434,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+104501,Stop Sign,37,14,"(100, 176)",JPEG
+104539,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+104555,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+104634,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+104701,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+104762,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+104785,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+104910,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+104940,Doing other things,37,0,"(100, 176)",JPEG
+104970,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+105000,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+105050,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+105277,Doing other things,37,0,"(100, 176)",JPEG
+105356,Doing other things,37,0,"(100, 176)",JPEG
+105366,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+105591,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+105847,Stop Sign,37,14,"(100, 176)",JPEG
+105879,Doing other things,37,0,"(100, 176)",JPEG
+105980,Doing other things,37,0,"(100, 176)",JPEG
+106004,Doing other things,37,0,"(100, 176)",JPEG
+106005,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+106020,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+106036,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+106099,Stop Sign,37,14,"(100, 176)",JPEG
+106217,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+106433,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+106475,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+106532,Doing other things,37,0,"(100, 176)",JPEG
+106551,Doing other things,37,0,"(100, 176)",JPEG
+106573,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+106641,Doing other things,37,0,"(100, 176)",JPEG
+106778,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+106890,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+106940,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+106995,Stop Sign,37,14,"(100, 176)",JPEG
+107223,Stop Sign,37,14,"(100, 176)",JPEG
+107233,Doing other things,37,0,"(100, 176)",JPEG
+107369,Doing other things,37,0,"(100, 176)",JPEG
+107415,Doing other things,37,0,"(100, 176)",JPEG
+107476,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+107477,Stop Sign,37,14,"(100, 176)",JPEG
+107492,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+107707,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+107771,Doing other things,37,0,"(100, 176)",JPEG
+107837,Doing other things,37,0,"(100, 132)",JPEG
+107996,Stop Sign,37,14,"(100, 176)",JPEG
+108116,Stop Sign,37,14,"(100, 176)",JPEG
+108134,Stop Sign,37,14,"(100, 176)",JPEG
+108190,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+108266,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+108382,Doing other things,37,0,"(100, 176)",JPEG
+108552,Doing other things,37,0,"(100, 176)",JPEG
+108554,Doing other things,37,0,"(100, 176)",JPEG
+108644,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+108748,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+108802,Stop Sign,37,14,"(100, 176)",JPEG
+108905,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+108977,Doing other things,37,0,"(100, 132)",JPEG
+109027,Doing other things,37,0,"(100, 176)",JPEG
+109064,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+109238,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+109338,Doing other things,37,0,"(100, 176)",JPEG
+109377,Doing other things,37,0,"(100, 176)",JPEG
+109460,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+109487,Doing other things,37,0,"(100, 132)",JPEG
+109488,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+109559,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+109600,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+109610,Doing other things,37,0,"(100, 176)",JPEG
+109612,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+109624,Doing other things,37,0,"(100, 176)",JPEG
+109967,Doing other things,37,0,"(100, 176)",JPEG
+109995,Stop Sign,37,14,"(100, 176)",JPEG
+110193,Doing other things,37,0,"(100, 176)",JPEG
+110194,Stop Sign,37,14,"(100, 176)",JPEG
+110260,Doing other things,37,0,"(100, 132)",JPEG
+110316,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+110332,Doing other things,37,0,"(100, 176)",JPEG
+110415,Doing other things,37,0,"(100, 176)",JPEG
+110447,Doing other things,37,0,"(100, 176)",JPEG
+110493,Doing other things,37,0,"(100, 176)",JPEG
+110611,Doing other things,37,0,"(100, 176)",JPEG
+110728,Doing other things,37,0,"(100, 176)",JPEG
+110781,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+110807,Stop Sign,37,14,"(100, 176)",JPEG
+110888,Doing other things,37,0,"(100, 132)",JPEG
+110904,Doing other things,37,0,"(100, 176)",JPEG
+110968,Doing other things,37,0,"(100, 132)",JPEG
+111121,Stop Sign,37,14,"(100, 176)",JPEG
+111283,Doing other things,37,0,"(100, 176)",JPEG
+111333,Doing other things,37,0,"(100, 176)",JPEG
+111342,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+111360,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+111385,Stop Sign,37,14,"(100, 176)",JPEG
+111419,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+111434,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+111450,Doing other things,37,0,"(100, 176)",JPEG
+111504,Stop Sign,37,14,"(100, 176)",JPEG
+111515,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+111563,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+111611,Doing other things,37,0,"(100, 176)",JPEG
+111808,Stop Sign,37,14,"(100, 176)",JPEG
+111877,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+111928,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+111956,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+111975,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+112286,Doing other things,37,0,"(100, 176)",JPEG
+112304,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+112384,Stop Sign,37,14,"(100, 176)",JPEG
+112406,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+112468,Doing other things,37,0,"(100, 176)",JPEG
+112549,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+112749,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+112751,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+112759,Doing other things,37,0,"(100, 176)",JPEG
+112768,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+112931,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+112962,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+113006,Stop Sign,37,14,"(100, 176)",JPEG
+113025,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+113088,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+113248,Doing other things,37,0,"(100, 176)",JPEG
+113286,Stop Sign,37,14,"(100, 176)",JPEG
+113305,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+113316,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+113378,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+113477,Doing other things,37,0,"(100, 176)",JPEG
+113507,Doing other things,37,0,"(100, 176)",JPEG
+113516,Doing other things,37,0,"(100, 176)",JPEG
+113521,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+113582,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+113634,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+113745,Stop Sign,37,14,"(100, 176)",JPEG
+113985,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+114006,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+114080,Doing other things,37,0,"(100, 176)",JPEG
+114341,Stop Sign,37,14,"(100, 176)",JPEG
+114365,Stop Sign,37,14,"(100, 176)",JPEG
+114431,Stop Sign,37,14,"(100, 176)",JPEG
+114465,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+114788,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+114855,Doing other things,37,0,"(100, 176)",JPEG
+115089,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+115130,Doing other things,37,0,"(100, 176)",JPEG
+115241,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+115242,Doing other things,37,0,"(100, 176)",JPEG
+115426,Stop Sign,37,14,"(100, 176)",JPEG
+115526,Doing other things,37,0,"(100, 176)",JPEG
+115533,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+115634,Doing other things,37,0,"(100, 176)",JPEG
+115730,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+115824,Stop Sign,37,14,"(100, 176)",JPEG
+115857,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+115875,Doing other things,37,0,"(100, 176)",JPEG
+115923,Doing other things,37,0,"(100, 176)",JPEG
+116035,Doing other things,37,0,"(100, 176)",JPEG
+116091,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+116155,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+116179,Doing other things,37,0,"(100, 176)",JPEG
+116251,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+116294,Doing other things,37,0,"(100, 176)",JPEG
+116328,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+116410,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+116550,Doing other things,37,0,"(100, 176)",JPEG
+116623,Doing other things,37,0,"(100, 176)",JPEG
+117021,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+117195,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+117306,Doing other things,37,0,"(100, 176)",JPEG
+117408,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+117555,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+117561,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+117658,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+117728,Doing other things,37,0,"(100, 176)",JPEG
+117811,Doing other things,37,0,"(100, 132)",JPEG
+117844,Doing other things,37,0,"(100, 176)",JPEG
+117851,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+117865,Doing other things,37,0,"(100, 176)",JPEG
+117944,Doing other things,37,0,"(100, 176)",JPEG
+117991,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+118034,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+118310,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+118414,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+118435,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+118888,Doing other things,37,0,"(100, 132)",JPEG
+118957,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+118970,Doing other things,37,0,"(100, 176)",JPEG
+119053,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+119086,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+119145,Doing other things,37,0,"(100, 176)",JPEG
+119233,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+119279,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+119414,Doing other things,37,0,"(100, 176)",JPEG
+119443,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+119479,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+119538,Doing other things,37,0,"(100, 176)",JPEG
+119575,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+119640,Doing other things,37,0,"(100, 176)",JPEG
+119735,Doing other things,37,0,"(100, 176)",JPEG
+119836,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+120133,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+120187,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+120266,Doing other things,37,0,"(100, 176)",JPEG
+120445,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+120515,Stop Sign,37,14,"(100, 176)",JPEG
+120550,Stop Sign,37,14,"(100, 176)",JPEG
+120762,Doing other things,37,0,"(100, 176)",JPEG
+120817,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+120839,Doing other things,37,0,"(100, 176)",JPEG
+120871,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+120974,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+121002,Stop Sign,37,14,"(100, 176)",JPEG
+121076,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+121167,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+121230,Doing other things,37,0,"(100, 176)",JPEG
+121232,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+121279,Stop Sign,37,14,"(100, 132)",JPEG
+121333,Doing other things,37,0,"(100, 132)",JPEG
+121370,Doing other things,37,0,"(100, 176)",JPEG
+121420,Stop Sign,37,14,"(100, 176)",JPEG
+121563,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+121669,Stop Sign,37,14,"(100, 176)",JPEG
+121766,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+121784,Doing other things,37,0,"(100, 176)",JPEG
+121821,Doing other things,37,0,"(100, 176)",JPEG
+121943,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+121992,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+122066,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+122201,Stop Sign,37,14,"(100, 176)",JPEG
+122356,Doing other things,37,0,"(100, 176)",JPEG
+122535,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+122605,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+122623,Doing other things,37,0,"(100, 176)",JPEG
+122762,Doing other things,37,0,"(100, 176)",JPEG
+122800,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+122899,Doing other things,37,0,"(100, 176)",JPEG
+123147,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+123155,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+123268,Doing other things,37,0,"(100, 176)",JPEG
+123274,Doing other things,37,0,"(100, 176)",JPEG
+123316,Doing other things,37,0,"(100, 176)",JPEG
+123326,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+123429,Doing other things,37,0,"(100, 176)",JPEG
+123461,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+123516,Doing other things,37,0,"(100, 176)",JPEG
+123665,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+123762,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+123833,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+123992,Doing other things,37,0,"(100, 176)",JPEG
+124183,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+124223,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+124281,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+124445,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+124486,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+124622,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+124737,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+124791,Stop Sign,37,14,"(100, 176)",JPEG
+124862,Doing other things,37,0,"(100, 176)",JPEG
+124949,Doing other things,37,0,"(100, 132)",JPEG
+125003,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+125041,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+125129,Doing other things,37,0,"(100, 176)",JPEG
+125269,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+125321,Doing other things,37,0,"(100, 176)",JPEG
+125329,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+125343,Doing other things,37,0,"(100, 176)",JPEG
+125443,Stop Sign,37,14,"(100, 132)",JPEG
+125550,Doing other things,37,0,"(100, 132)",JPEG
+125599,Doing other things,37,0,"(100, 176)",JPEG
+125636,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+125927,Doing other things,37,0,"(100, 176)",JPEG
+126490,Doing other things,37,0,"(100, 176)",JPEG
+126529,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+126556,Doing other things,37,0,"(100, 176)",JPEG
+126565,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+126567,Doing other things,37,0,"(100, 176)",JPEG
+126608,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+126628,Doing other things,37,0,"(100, 176)",JPEG
+126719,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+126728,Doing other things,37,0,"(100, 176)",JPEG
+126791,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+126946,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+127031,Stop Sign,37,14,"(100, 176)",JPEG
+127146,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+127165,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+127182,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+127276,Stop Sign,37,14,"(100, 176)",JPEG
+127411,Doing other things,37,0,"(100, 176)",JPEG
+127494,Doing other things,37,0,"(100, 176)",JPEG
+127544,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+127706,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+127708,Doing other things,37,0,"(100, 176)",JPEG
+127721,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+127800,Doing other things,37,0,"(100, 176)",JPEG
+127805,Stop Sign,37,14,"(100, 176)",JPEG
+127852,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+127895,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+127997,Doing other things,37,0,"(100, 132)",JPEG
+128022,Doing other things,37,0,"(100, 176)",JPEG
+128119,Doing other things,37,0,"(100, 176)",JPEG
+128130,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+128179,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+128229,Stop Sign,37,14,"(100, 132)",JPEG
+128231,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+128236,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+128364,Stop Sign,37,14,"(100, 176)",JPEG
+128390,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+128424,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+128445,Stop Sign,37,14,"(100, 176)",JPEG
+128591,Doing other things,37,0,"(100, 132)",JPEG
+128655,Doing other things,37,0,"(100, 176)",JPEG
+128728,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+128756,Doing other things,37,0,"(100, 132)",JPEG
+128799,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+128807,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+128929,Doing other things,37,0,"(100, 176)",JPEG
+128972,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+129030,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+129085,Doing other things,37,0,"(100, 176)",JPEG
+129113,Doing other things,37,0,"(100, 176)",JPEG
+129118,Doing other things,37,0,"(100, 176)",JPEG
+129135,Stop Sign,37,14,"(100, 176)",JPEG
+129230,Doing other things,37,0,"(100, 176)",JPEG
+129274,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+129671,Doing other things,37,0,"(100, 176)",JPEG
+129685,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+129799,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+129821,Stop Sign,37,14,"(100, 176)",JPEG
+130215,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+130284,Doing other things,37,0,"(100, 176)",JPEG
+130304,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+130430,Stop Sign,37,14,"(100, 132)",JPEG
+130761,Doing other things,37,0,"(100, 176)",JPEG
+130835,Doing other things,37,0,"(100, 176)",JPEG
+130907,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+130942,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+131227,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+131260,Doing other things,37,0,"(100, 176)",JPEG
+131299,Doing other things,37,0,"(100, 176)",JPEG
+131324,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+131575,Stop Sign,37,14,"(100, 176)",JPEG
+131584,Doing other things,37,0,"(100, 176)",JPEG
+131629,Stop Sign,37,14,"(100, 176)",JPEG
+131854,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+131899,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+132170,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+132277,Doing other things,37,0,"(100, 142)",JPEG
+132300,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+132485,Stop Sign,37,14,"(100, 132)",JPEG
+132599,Stop Sign,37,14,"(100, 176)",JPEG
+132606,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+132611,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+132652,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+132664,Doing other things,37,0,"(100, 176)",JPEG
+132772,Doing other things,37,0,"(100, 176)",JPEG
+132857,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+133005,Doing other things,37,0,"(100, 176)",JPEG
+133111,Doing other things,37,0,"(100, 176)",JPEG
+133146,Doing other things,37,0,"(100, 176)",JPEG
+133152,Doing other things,37,0,"(100, 176)",JPEG
+133254,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+133291,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+133309,Doing other things,37,0,"(100, 176)",JPEG
+133325,Doing other things,37,0,"(100, 176)",JPEG
+133399,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+133505,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+133610,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+133614,Doing other things,37,0,"(100, 176)",JPEG
+133617,Doing other things,37,0,"(100, 176)",JPEG
+133677,Doing other things,37,0,"(100, 176)",JPEG
+133756,Doing other things,37,0,"(100, 176)",JPEG
+133845,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+133965,Stop Sign,37,14,"(100, 176)",JPEG
+134098,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+134102,Doing other things,37,0,"(100, 176)",JPEG
+134149,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+134171,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+134197,Doing other things,37,0,"(100, 176)",JPEG
+134293,Doing other things,37,0,"(100, 176)",JPEG
+134366,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+134395,Stop Sign,37,14,"(100, 176)",JPEG
+134416,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+134456,Doing other things,37,0,"(100, 176)",JPEG
+134563,Doing other things,37,0,"(100, 176)",JPEG
+134616,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+134692,Doing other things,37,0,"(100, 176)",JPEG
+134744,Doing other things,37,0,"(100, 132)",JPEG
+134850,Stop Sign,37,14,"(100, 176)",JPEG
+134993,Doing other things,37,0,"(100, 176)",JPEG
+135169,Doing other things,37,0,"(100, 176)",JPEG
+135176,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+135228,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+135349,Doing other things,37,0,"(100, 176)",JPEG
+135421,Doing other things,37,0,"(100, 176)",JPEG
+135472,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+135489,Doing other things,37,0,"(100, 176)",JPEG
+135556,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+135575,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+135644,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+135849,Doing other things,37,0,"(100, 176)",JPEG
+135945,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+136208,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+136250,Stop Sign,37,14,"(100, 176)",JPEG
+136291,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+136326,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+136456,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+136537,Doing other things,37,0,"(100, 176)",JPEG
+136544,Doing other things,37,0,"(100, 176)",JPEG
+136596,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+136624,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+136673,Doing other things,37,0,"(100, 176)",JPEG
+136690,Stop Sign,37,14,"(100, 176)",JPEG
+136717,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+136739,Doing other things,37,0,"(100, 176)",JPEG
+136754,Doing other things,37,0,"(100, 176)",JPEG
+136840,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+136959,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+137109,Doing other things,37,0,"(100, 176)",JPEG
+137111,Doing other things,37,0,"(100, 176)",JPEG
+137437,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+137476,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+137578,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+137580,Doing other things,37,0,"(100, 176)",JPEG
+137618,Stop Sign,37,14,"(100, 176)",JPEG
+137724,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+137759,Doing other things,37,0,"(100, 176)",JPEG
+137774,Doing other things,37,0,"(100, 176)",JPEG
+137922,Doing other things,37,0,"(100, 176)",JPEG
+137949,Stop Sign,37,14,"(100, 176)",JPEG
+137957,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+138126,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+138136,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+138165,Doing other things,37,0,"(100, 176)",JPEG
+138243,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+138274,Doing other things,37,0,"(100, 176)",JPEG
+138289,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+138364,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+138386,Doing other things,37,0,"(100, 176)",JPEG
+138388,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+138562,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+138579,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+138580,Doing other things,37,0,"(100, 176)",JPEG
+138631,Doing other things,37,0,"(100, 176)",JPEG
+138667,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+138707,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+138757,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+138761,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+138871,Doing other things,37,0,"(100, 176)",JPEG
+138887,Stop Sign,37,14,"(100, 176)",JPEG
+138943,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+138968,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+139042,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+139067,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+139145,Doing other things,37,0,"(100, 176)",JPEG
+139177,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+139208,Doing other things,37,0,"(100, 176)",JPEG
+139217,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+139374,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+139434,Doing other things,37,0,"(100, 176)",JPEG
+139559,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+139580,Doing other things,37,0,"(100, 176)",JPEG
+139663,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+139682,Stop Sign,37,14,"(100, 176)",JPEG
+139728,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+139738,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+139760,Stop Sign,37,14,"(100, 176)",JPEG
+139821,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+139896,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+139989,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+140122,Sliding Two Fingers Down,37,10,"(100, 132)",JPEG
+140240,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+140273,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+140305,Doing other things,37,0,"(100, 176)",JPEG
+140312,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+140346,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+140422,Doing other things,37,0,"(100, 176)",JPEG
+140440,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+140579,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+140637,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+140718,Stop Sign,37,14,"(100, 176)",JPEG
+140797,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+140884,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+140975,Doing other things,37,0,"(100, 176)",JPEG
+141149,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+141157,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+141361,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+141537,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+141603,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+141700,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+141778,Stop Sign,37,14,"(100, 132)",JPEG
+141780,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+141839,Doing other things,37,0,"(100, 176)",JPEG
+141840,Doing other things,37,0,"(100, 132)",JPEG
+142081,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+142165,Doing other things,37,0,"(100, 176)",JPEG
+142190,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+142547,Doing other things,37,0,"(100, 176)",JPEG
+142574,Stop Sign,37,14,"(100, 132)",JPEG
+142579,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+143007,Doing other things,37,0,"(100, 100)",JPEG
+143193,Doing other things,37,0,"(100, 176)",JPEG
+143411,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+143551,Doing other things,37,0,"(100, 176)",JPEG
+143608,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+143842,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+143873,Doing other things,37,0,"(100, 176)",JPEG
+144013,Doing other things,37,0,"(100, 176)",JPEG
+144058,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+144063,Doing other things,37,0,"(100, 176)",JPEG
+144114,Doing other things,37,0,"(100, 176)",JPEG
+144120,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+144172,Doing other things,37,0,"(100, 176)",JPEG
+144258,Doing other things,37,0,"(100, 176)",JPEG
+144424,Doing other things,37,0,"(100, 176)",JPEG
+144499,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+144509,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+144521,Doing other things,37,0,"(100, 176)",JPEG
+144526,Sliding Two Fingers Right,37,12,"(100, 132)",JPEG
+144546,Doing other things,37,0,"(100, 176)",JPEG
+144600,Doing other things,37,0,"(100, 176)",JPEG
+144613,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+144619,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+144686,Doing other things,37,0,"(100, 176)",JPEG
+144759,Stop Sign,37,14,"(100, 176)",JPEG
+144936,Sliding Two Fingers Left,37,11,"(100, 132)",JPEG
+144998,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+145132,Sliding Two Fingers Up,37,13,"(100, 132)",JPEG
+145171,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+145244,Stop Sign,37,14,"(100, 176)",JPEG
+145412,Stop Sign,37,14,"(100, 176)",JPEG
+145415,Doing other things,37,0,"(100, 176)",JPEG
+145423,Stop Sign,37,14,"(100, 176)",JPEG
+145531,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+145550,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+145636,Doing other things,37,0,"(100, 176)",JPEG
+145700,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+145713,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+145785,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+145798,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+145847,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+145888,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+145971,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+146080,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+146082,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+146189,Sliding Two Fingers Right,37,12,"(100, 176)",JPEG
+146207,Doing other things,37,0,"(100, 176)",JPEG
+146435,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+146454,Doing other things,37,0,"(100, 176)",JPEG
+146675,Doing other things,37,0,"(100, 176)",JPEG
+146733,Doing other things,37,0,"(100, 132)",JPEG
+146734,Doing other things,37,0,"(100, 176)",JPEG
+146758,Doing other things,37,0,"(100, 132)",JPEG
+146969,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+147042,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+147073,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+147221,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+147492,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+147649,Sliding Two Fingers Up,37,13,"(100, 176)",JPEG
+147727,Sliding Two Fingers Down,37,10,"(100, 176)",JPEG
+147729,Doing other things,37,0,"(100, 176)",JPEG
+147804,Stop Sign,37,14,"(100, 176)",JPEG
+147960,Sliding Two Fingers Left,37,11,"(100, 176)",JPEG
+148032,Doing other things,37,0,"(100, 176)",JPEG
+148046,Doing other things,37,0,"(100, 176)",JPEG
