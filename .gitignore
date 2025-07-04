@@ -1,6 +1,5 @@
 data
 kaggle.json
-models
 *.jpg
 *.png
 *.jpeg
