@@ -1,6 +1,13 @@
 data
 kaggle.json
 models
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
