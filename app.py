@@ -35,10 +35,10 @@ process_every_n_frames = st.sidebar.slider("Process Every N Frames", 1, 5, 2, 1)
 # Gesture class mappings (adjust these based on your actual classes)
 gesture_names = {
     0: "No Gesture",
-    10: "Swipe Left", 
-    11: "Swipe Right",
-    12: "Swipe Up",
-    13: "Swipe Down", 
+    10: "Slide Down", 
+    11: "Slide Left",
+    12: "Slide Right",
+    13: "Slide Up", 
     14: "Stop Sign"
 }
 
