@@ -1,1 +1,3 @@
-# [Demo Link](!https://dynamichandrecognition.streamlit.app/)
+# Dynamic Hand Gesture Recognition
+
+## [Demo Link](https://dynamichandrecognition.streamlit.app/)
